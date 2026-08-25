@@ -84,9 +84,9 @@ export default function LoginPage() {
 
         <div className="mt-6 pt-6 border-t border-slate-800 text-xs text-slate-500 space-y-1">
           <p className="font-semibold text-slate-400">Quick Test Accounts (Password: 123456):</p>
-          <p>• Admin: <code className="text-emerald-400">admin_asfour</code></p>
-          <p>• Pharmacist: <code className="text-emerald-400">ph_hala</code></p>
-          <p>• Inventory Clerk: <code className="text-emerald-400">clerk_rakan</code></p>
+      <p>• Admin: <code className="text-emerald-400">admin_sami</code></p>
+<p>• Pharmacist: <code className="text-emerald-400">ph_layla</code></p>
+<p>• Inventory Clerk: <code className="text-emerald-400">clerk_rami</code></p>
         </div>
       </div>
     </div>
