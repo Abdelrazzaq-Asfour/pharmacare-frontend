@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- خلفية مربعة بحواف دائرية -->
+  <rect width="32" height="32" rx="8" fill="#022C22"/>
+  
+  <!-- شكل حبة الدواء (كبسولة مقسومة نصفين) -->
+  <path d="M11 9H21C23.7614 9 26 11.2386 26 14V14C26 16.7614 23.7614 19 21 19H11C8.23858 19 6 16.7614 6 14V14C6 11.2386 8.23858 9 11 9Z" transform="rotate(45 16 14)" fill="#10B981"/>
+  <path d="M16 9H21C23.7614 9 26 11.2386 26 14V14C26 16.7614 23.7614 19 21 19H16V9Z" transform="rotate(45 16 14)" fill="#34D399"/>
+  <line x1="12" y1="12" x2="20" y2="20" stroke="#022C22" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
