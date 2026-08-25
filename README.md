@@ -1,7 +1,10 @@
-إليك ملف **`README.md`** احترافي ومصمم خصيصاً على مستوى المعايير الهندسية للشركات الكبرى (Enterprise-grade)، مكتوب باللغة الإنجليزية، ويغطي كافة تفاصيل الواجهة الأمامية، الخلفية، هيكلية المشروع، وقاعدة البيانات:
+# 💊 PharmaCare - Enterprise Pharmacy Management & POS System
+
+
+
+<img width="1926" height="960" alt="pharmacare-admin_asfour (4)" src="https://github.com/user-attachments/assets/c22be858-d3e3-4a5d-a067-16ff8a199b6c" />
 
 ```markdown
-# 💊 PharmaCare - Enterprise Pharmacy Management & POS System
 
 > A production-grade, high-performance, and secure pharmacy management ecosystem engineered to streamline retail pharmacy operations, automated inventory tracking, and multi-role administrative oversight.
 
